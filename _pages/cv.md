@@ -9,51 +9,104 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Experience
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### PassBox
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Engineer/Partner, 2017 - present
 
-Publications
-======
+### Boeing Research and Technology - Australia
+
+Composites Research Engineer, Mar 2015 - Dec 2018
+
+## Education
+
+### Master of Computer Science
+
+University of Melbourne, 2020-present
+
+### Bachelor of Engineering (Aerospace)
+
+UNSW, 2009-2013
+
+1st Class Honours and University Medal
+
+### Bachelor of Science (Physics)
+
+UNSW, 2009-2013
+
+## Skills
+
+### Languages
+
+Python, Java, C, JavaScript, Haskell, R
+
+### Frameworks
+
+- Python: Flask, Django
+- JavaScript: Vue, Svelte
+
+### Databases
+
+MySQL, PostgreSQL, CouchDB, SQLite
+
+### Other
+
+Git, Docker, Ansible, AWS, Arduino
+
+### Course work - Computer science
+
+Graduate level courses completed in:
+
+- Cluster and cloud computing
+- Software project management  
+- Machine learning and artificial intelligence planning
+- Concurrency and modelling complex systems
+- Quantum computing
+- Cryptocurrencies and decentralised ledgers
+
+Undergraduate courses completed in:
+
+- Algorithms and data structures
+- Object-oriented and declarative programming
+- Networks and operating systems
+- Databases
+- Numerical methods
+- Models of computation
+
+### Engineering
+
+- Computer-aided design: Catia
+- Net Present Value analysis/trade studies
+- Prototyping: electromechanical, composite structures
+- Design for additive manufacturing
+- Finite element modelling: Patran/Nastran, Abaqus
+
+## Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+## Patents
+
+[Curved heat shrink tubing and methods of making the same](https://patents.google.com/patent/US20190168427A1/en)
+
+<!--Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+-->
   
-Teaching
+<!--Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
-Service and leadership
+<!--Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
