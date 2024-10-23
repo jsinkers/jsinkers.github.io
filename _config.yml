@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-AU"
 title                    : "James Sinclair"
 title_separator          : "-"
 name                     : &name "James Sinclair"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "james-sinclair-a1a60a7a"
+  linkedin         : #"james-sinclair-a1a60a7a"
   orcid            : 
   pinterest        :
   soundcloud       :

@@ -1,6 +1,6 @@
 ---
 title: "PassBox cycling safety research"
-excerpt: "The largest on-road study of passing distance conducted<br/><img src='/images/passbox-map.png'>"
+excerpt: "The world's largest on-road study of passing distance<br/><img src='/images/passbox-map.png'>"
 collection: portfolio
 ---
 

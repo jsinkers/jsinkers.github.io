@@ -15,7 +15,7 @@ redirect_from:
 
 ### PassBox
 
-Engineer/Partner, 2017 - present
+Engineer/Partner, 2017 - 2024
 
 ### Boeing Research and Technology - Australia
 
@@ -23,9 +23,11 @@ Composites Research Engineer, Mar 2015 - Dec 2018
 
 ## Education
 
-### Master of Computer Science
+### Master of Information Technology
 
-University of Melbourne, 2020-present
+University of Melbourne, 2020-2024
+
+Distinction
 
 ### Bachelor of Engineering (Aerospace)
 
@@ -36,6 +38,8 @@ UNSW, 2009-2013
 ### Bachelor of Science (Physics)
 
 UNSW, 2009-2013
+
+Distinction
 
 ## Skills
 
@@ -78,8 +82,8 @@ Undergraduate courses completed in:
 
 ### Engineering
 
-- Computer-aided design: Catia
-- Net Present Value analysis/trade studies
+- Computer-aided design: Catia, FreeCAD, OpenSCAD, Fusion 360
+- Net Present Value analysis and trade studies
 - Prototyping: electromechanical, composite structures
 - Design for additive manufacturing
 - Finite element modelling: Patran/Nastran, Abaqus

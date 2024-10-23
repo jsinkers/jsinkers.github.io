@@ -26,7 +26,13 @@ Always a favourite of mine - here's [Conway's Game of Life](https://jsinkers.git
 
 I have also implemented Wolfram's [256 rules](https://jsinkers.github.io/conway/rule.html).
 
-[4 Billion Rules](https://jsinkers.github.io/conway/rule-extended.html) This is an extension of 256 rules, which uses 2 neighbours either side of each cell to determine the next cell state. As there are 5 cells, there are 32 possible states, meaning there are 2^32 ~ 4 billion rules. I always find something new when I explore some random rules.
+[4 Billion Rules](https://jsinkers.github.io/conway/rule-extended.html) This is my extension of 256 rules, which uses 2 neighbours either side of each cell to determine the next cell state. As there are 5 cells, there are 32 possible states, meaning there are 2^32 ~ 4 billion rules. I always find something new when I explore some random rules.
+
+### Cellular Automata Planter
+
+Personal project, 2024 <!-- TODO -->
+
+
 
 ## Quadlock Clone - 3D Printing
 
