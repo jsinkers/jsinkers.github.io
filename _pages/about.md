@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an engineer based in Melbourne with a focus on cycling safety research. My work with [PassBox](/portfolio/portfolio-1-passbox) has involved developing a custom device and data reduction software to measure how close vehicles pass cyclists on the road. This allowed us to assess and inform cycling infrastructure policies, culminating in the world's largest passing distance study, and the first on-road assessment of minimum passing distance laws. I also have several years of experience working as an aerospace structures R&D engineer at Boeing Research and Technology, where I worked on developing manufacturing methods for carbon fibre aircraft components. I hold a Master of IT with Distinction from the University of Melbourne, and a Bachelor of Engineering (Aerospace)/Bachelor of Science (Physics) at UNSW, where I was awarded the University Medal.
+I'm an engineer based in Melbourne with a focus on cycling safety research. My work with [PassBox](/portfolio/passbox) has involved developing a custom device and data reduction software to measure how close vehicles pass cyclists on the road. This allowed us to assess and inform cycling infrastructure policies, culminating in the world's largest passing distance study, and the first on-road assessment of minimum passing distance laws. I also have several years of experience working as an aerospace structures R&D engineer at Boeing Research and Technology, where I worked on developing manufacturing methods for carbon fibre aircraft components. I hold a Master of IT with Distinction from the University of Melbourne, and a Bachelor of Engineering (Aerospace)/Bachelor of Science (Physics) at UNSW, where I was awarded the University Medal.
 
 <!-- interests -->
 
