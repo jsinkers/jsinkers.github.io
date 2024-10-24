@@ -72,6 +72,8 @@ A long while back I made an [LED cube](https://youtu.be/BrMr_Wx8Z84), using prot
 - [Joystick video](https://youtu.be/TF5w_ConQk8)
 - [3D Pong Video](https://youtu.be/0-yoEmxVzAU)
 
+![LED cube](/images/led-cube.png)
+
 ## Warman Competition - National finalists
 
 Engineering student competition, 2011
