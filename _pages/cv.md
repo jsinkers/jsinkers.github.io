@@ -15,7 +15,7 @@ redirect_from:
 
 ### PassBox
 
-Engineer/Partner, 2017 - present
+Engineer/Partner, 2017 - 2024
 
 ### Boeing Research and Technology - Australia
 
@@ -23,9 +23,11 @@ Composites Research Engineer, Mar 2015 - Dec 2018
 
 ## Education
 
-### Master of Computer Science
+### Master of Information Technology
 
-University of Melbourne, 2020-present
+University of Melbourne, 2020-2024
+
+Distinction
 
 ### Bachelor of Engineering (Aerospace)
 
@@ -36,6 +38,8 @@ UNSW, 2009-2013
 ### Bachelor of Science (Physics)
 
 UNSW, 2009-2013
+
+Distinction
 
 ## Skills
 
@@ -60,8 +64,9 @@ Git, Docker, Ansible, AWS, Arduino
 
 Graduate level courses completed in:
 
-- Cluster and cloud computing
+- Technology innovation
 - Software project management  
+- Cloud and cluster computing
 - Machine learning and artificial intelligence planning
 - Concurrency and modelling complex systems
 - Quantum computing
@@ -78,8 +83,8 @@ Undergraduate courses completed in:
 
 ### Engineering
 
-- Computer-aided design: Catia
-- Net Present Value analysis/trade studies
+- Computer-aided design: Catia, FreeCAD, OpenSCAD, Fusion 360
+- Net Present Value analysis and trade studies
 - Prototyping: electromechanical, composite structures
 - Design for additive manufacturing
 - Finite element modelling: Patran/Nastran, Abaqus
@@ -96,14 +101,14 @@ Undergraduate courses completed in:
 
 <!--Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 -->
   
 <!--Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->

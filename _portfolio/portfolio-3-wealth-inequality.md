@@ -1,7 +1,8 @@
 ---
 title: "Wealth inequality"
-excerpt: "Ground-up development of an agent-based model in Java exploring wealth inequaltity<br/>"
+excerpt: "Ground-up development of an agent-based model in Java exploring wealth inequaltity"
 collection: portfolio
+image: /images/wealth-inequality.png
 ---
 
 Course project for Modelling Complex Software Systems, 2021

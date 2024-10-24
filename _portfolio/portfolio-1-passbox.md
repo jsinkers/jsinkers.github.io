@@ -1,14 +1,14 @@
 ---
-title: "PassBox cycling safety research"
-excerpt: "The largest on-road study of passing distance conducted<br/><img src='/images/passbox-map.png'>"
+title: "Cycling safety with PassBox"
+excerpt: "Cycling safety research including the world's largest study on passing distance, and the world's first on-road assessment of minimum passing distance laws"
+image: /images/passbox-map.png
 collection: portfolio
 ---
 
 ![PassBox map](/images/passbox-map.png)
-[PassBox map](http://passbox.org/map)
 
-We conduct research on cycling and pedestrian safety. I developed the PassBox device to measure how close cars pass cyclists on the road. We fit these devices to volunteers' bicycles around Australia and collect data on how close they are passed by other vehicles. Collected data is reduced to passing events using software I have implemented that synchronises video footage to distance sensor readings and extracts passing events. Datasets are used to build models assessing the impact of advertising campaigns, explore different cycling infrastructure, and assess
-the effect of passing distance laws. I have presented our findings at several international conferences.
+
+I started [PassBox](https://passbox.org) with Jonathan Nolan to conduct research on cycling and pedestrian safety. I developed the PassBox device to measure how close cars pass cyclists on the road. We fit these devices to volunteers' bicycles around Australia and collect data on how close they are passed by other vehicles. Collected data is reduced to passing events using software I have implemented that synchronises video footage to distance sensor readings and extracts passing events. Datasets are used to build models assessing the impact of advertising campaigns, explore different cycling infrastructure, and assess the effect of passing distance laws. I have presented our findings at several international conferences. See our data on the [PassBox map](https://passbox.org/map).
 
 <!-- image of passbox device -->
 ![PassBox mounted to a rack](/images/passbox_rear.JPEG)

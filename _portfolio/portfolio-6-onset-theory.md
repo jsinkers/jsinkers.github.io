@@ -1,6 +1,7 @@
 ---
-title: "Onset theory"
-excerpt: "Honours thesis assessing a novel composite failure theory<br><img src='/images/thesis-transverse-microcracking.png'>"
+title: "Carbon fibre failure theory"
+excerpt: "Honours thesis assessing onset theory, a novel composite failure theory"
+image: /images/thesis-transverse-microcracking.png
 collection: portfolio
 ---
 

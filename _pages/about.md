@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an engineer based in Melbourne conducting research on cycling safety. [This work](/portfolio/portfolio-1-passbox) uses the PassBox device and data reduction software I have developed from the ground up
-to measure how close vehicles pass cyclists on the road, helping assess and inform policies around cycling infrastructure. I have four years' experience aerospace structures R&D engineer at Boeing Research and Technology, and am currently completing a Master of Computer Science at the University of Melbourne. I completed a Bachelor of Engineering (Aerospace)/Bachelor of Science (Physics) at UNSW, receiving the University Medal.
+I'm an engineer based in Melbourne with a focus on cycling safety research. My work with [PassBox](/portfolio/portfolio-1-passbox) has involved developing a custom device and data reduction software to measure how close vehicles pass cyclists on the road. This allowed us to assess and inform cycling infrastructure policies, culminating in the world's largest passing distance study, and the first on-road assessment of minimum passing distance laws. I also have several years of experience working as an aerospace structures R&D engineer at Boeing Research and Technology, where I worked on developing manufacturing methods for carbon fibre aircraft components. I hold a Master of IT with Distinction from the University of Melbourne, and a Bachelor of Engineering (Aerospace)/Bachelor of Science (Physics) at UNSW, where I was awarded the University Medal.
 
 <!-- interests -->
 
@@ -17,7 +16,7 @@ to measure how close vehicles pass cyclists on the road, helping assess and info
 
 A data-driven personal website
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
@@ -41,7 +40,7 @@ For site content, there is one markdown file for each type of content, which are
 **Markdown generator**
 
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
 How to edit your site's GitHub repository
 ------

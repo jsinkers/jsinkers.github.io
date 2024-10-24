@@ -1,6 +1,7 @@
 ---
 title: "Register machine"
-excerpt: "Web-app to teach about computing via a register machine<br><img src='/images/register-machine.png'/>"
+excerpt: "Web-app to teach about computing via a register machine"
+image: /images/register-machine.png
 collection: portfolio
 ---
 
