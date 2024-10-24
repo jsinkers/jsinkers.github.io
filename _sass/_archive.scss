@@ -6,16 +6,16 @@
   margin-bottom: 2em;
 
   @include breakpoint($medium) {
-    @include span(12 of 12);
+    @include span(12 of 12 last);
   }
 
   @include breakpoint($large) {
-    @include span(10 of 12 last);
+    @include span(9 of 12 last);
     @include prefix(0.5 of 12);
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline;
@@ -90,7 +90,7 @@
    ========================================================================== */
 
 .list__item {
-  @include breakpoint($medium) {
+  /*@include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
   }
 
@@ -100,7 +100,7 @@
 
   @include breakpoint($x-large) {
     padding-right: $right-sidebar-width-wide;
-  }
+  }*/
 
   .page__meta {
     margin: 0 0 4px;
@@ -111,6 +111,33 @@
 /*
    Grid view
    ========================================================================== */
+.grid {
+  display: grid;
+  gap: 3em;
+
+  @include breakpoint($small) {
+    grid-template-columns: 1;
+  }
+
+  @include breakpoint($medium) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  img {
+    max-height: 25vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+}
+
+.portfolio_item {
+  display: flex;
+  flex-direction: row;
+  border-radius: 20%;
+  border-color: gray;
+
+}
 
 .grid__item {
   margin-bottom: 2em;

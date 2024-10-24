@@ -64,8 +64,9 @@ Git, Docker, Ansible, AWS, Arduino
 
 Graduate level courses completed in:
 
-- Cluster and cloud computing
+- Technology innovation
 - Software project management  
+- Cloud and cluster computing
 - Machine learning and artificial intelligence planning
 - Concurrency and modelling complex systems
 - Quantum computing

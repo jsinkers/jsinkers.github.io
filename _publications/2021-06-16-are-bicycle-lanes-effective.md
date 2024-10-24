@@ -1,9 +1,9 @@
 ---
 title: "Are bicycle lanes effective? The relationship between passing distance and road characteristics"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/are-bicycle-lanes-effective
-excerpt: 'The largest on-road study of passing distance to date'
+excerpt: "The world's largest on-road study of passing distance"
 date: 2021-06-16
 venue: 'Accident Analysis and Prevention'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0001457521002153'

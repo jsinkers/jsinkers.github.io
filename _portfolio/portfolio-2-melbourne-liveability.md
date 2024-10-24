@@ -1,6 +1,7 @@
 ---
 title: "Melbourne liveability"
-excerpt: "Development of a cloud-deployed system to explore liveability indicators in Melbourne<br/><img src='/images/melbourne-liveability.png'>"
+excerpt: "Development of a cloud-deployed system to explore liveability indicators in Melbourne"
+image: /images/melbourne-liveability.png
 collection: portfolio
 ---
 

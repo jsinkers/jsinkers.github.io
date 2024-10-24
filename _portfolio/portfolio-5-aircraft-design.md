@@ -1,6 +1,7 @@
 ---
 title: "Hybrid agricultural aircraft"
-excerpt: "Design of a hybrid propulsion agricultural aircraft<br><img src='/images/aircraft-design.png'>"
+excerpt: "Design of a hybrid propulsion agricultural aircraft"
+image: /images/aircraft-design.png
 collection: portfolio
 ---
 

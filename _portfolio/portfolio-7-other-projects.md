@@ -2,6 +2,7 @@
 title: "Other projects"
 excerpt: "Collection of other coursework and side projects"
 collection: portfolio
+image: /images/breadboard-computer.png
 ---
 
 ## Breadboard computer
@@ -28,11 +29,31 @@ I have also implemented Wolfram's [256 rules](https://jsinkers.github.io/conway/
 
 [4 Billion Rules](https://jsinkers.github.io/conway/rule-extended.html) This is my extension of 256 rules, which uses 2 neighbours either side of each cell to determine the next cell state. As there are 5 cells, there are 32 possible states, meaning there are 2^32 ~ 4 billion rules. I always find something new when I explore some random rules.
 
-### Cellular Automata Planter
+## Cellular Automaton Planter
 
-Personal project, 2024 <!-- TODO -->
+Personal project, 2024 
+
+I developed a fully parametric elementary [cellular automaton planter](https://www.printables.com/model/1046437-cellular-automaton-planter-fully-parametric), initially using a combination of Python and OpenSCAD, and then rewritten using FreeCAD. You can input the rule number and the dimensions of the planter, and then it will generate the model for you. 
+
+![Cellular Automaton Planter](/images/cellular-automaton-planter.jpeg)
 
 
+
+## Barbie Drive-In
+
+Personal project, 2024
+
+![Barbie Drive-In](/images/barbie-drive-in.webp)
+
+The [Barbie Drive-In](https://www.printables.com/model/673503-barbie-drive-in) was a collaboration with a friend to make this gift, which is a 3D printed drive-in movie theatre playing the Barbie movie. I used a Raspberry Pi Zero W to play the movie. I designed an enclosure for the screen, as well as a projector which houses an RGB led. I also created a [web app](https://youtube.com/shorts/A50qRGPbNX4?si=ZDVCf9kBQVxrtQJw) that lets you control the movie playback, as well as the colour/intensity of the projector. 
+
+## RFID Mini Record Player
+
+Personal project, 2023
+
+![RFID Mini Record Player](/images/mini-record-player.webp)
+
+This was a collaboration with a friend. The [RFID Mini Record Player]() is a 3D printed record player that plays a song through Sonos speakers when you place a mini-record on it. The records have RFID tags in them, and the record player reads the RFID tag to determine which song to play. My contribution to this project was primarily in the design and printing of the record player and records.
 
 ## Quadlock Clone - 3D Printing
 
@@ -51,6 +72,26 @@ A long while back I made an [LED cube](https://youtu.be/BrMr_Wx8Z84), using prot
 - [Joystick video](https://youtu.be/TF5w_ConQk8)
 - [3D Pong Video](https://youtu.be/0-yoEmxVzAU)
 
+## Warman Competition - National finalists
+
+Engineering student competition, 2011
+
+As a team of 4 we developed an autonomous vehicle to traverse a track, pick up nine coloured balls, return to the other end of the track and place the balls in individual designated slots. The vehicle had to negotiate a height clearance obstacle in the centre of the track, and was subject to a number of size and weight constraints. I was responsible for the development of electronics and programming using Arduino to control a variety of sensors and motors. This project was great because I got to teach myself about Arduino, electronics, sensors, and designing PCBs.
+
+![Warman competition](/images/warman.gif)
+
+## Fundamental constants of the Universe 
+
+Summer vacation research scholarship, UNSW School of Physics, 2011
+
+A fascinating project helping to reduce data from observations of quasars from the High-resolution echelle spectrometer instrument in the Keck telescope. The research group at UNSW found evidence of variation in the
+fine-structure constant across the sky, which goes against one of the fundamental assumptions of cosmology of 
+isotropy.
+
+![Quasar absorption spectrum](/images/keck.png)
+(Source: King, J. PhD Thesis: Searching for variations in the fine-structure constant and the proton-toelectron
+mass ratio using quasar absorption lines. Sydney : University of New South Wales, 2010.)
+
 ## AI Player for Yinsh
 
 Course project, AI planning for autonomy, 2022
@@ -68,31 +109,7 @@ Course project, AI planning for autonomy, 2022
 
 Course project for Cryptocurrencies and Decentralised Ledgers, 2022
 
-- Centralisation is a problem for decentralised blockchains as it can lead to various attacks (e.g. 51% attacks)
-- Proof of Stake is increasingly preferred as the consensus mechanism over Proof of Work for a variety of reasons (e.g. vastly lower energy consumption)
-- As a team of 3, we scraped block headers for 3 proof of stake chains: Solana, Cardano, and Polkadot
-- we estimated the proportion of stake of the top validators based on selection frequency
-- we computed the level of centralisation using a variety of metrics (e.g. Herfindahl-Hirschman index)
-- Solana was found to have a considerably higher level of centralisation than Cardano or Polkadot. This was consistent with Cardano and Polkadot having designed in incentives to discourage centralisation, while Solana had no such mechanism. 
+Centralisation is a problem for decentralised blockchains as it can lead to various attacks (e.g. 51% attacks). Proof of Stake is increasingly preferred as the consensus mechanism over Proof of Work for a variety of reasons (e.g. vastly lower energy consumption). As a team of 3, we scraped block headers for 3 proof of stake chains: Solana, Cardano, and Polkadot. We estimated the proportion of stake of the top validators based on selection frequency, and computed the level of centralisation using a variety of metrics (e.g. Herfindahl-Hirschman index).
+Solana was found to have a considerably higher level of centralisation than Cardano or Polkadot. This was consistent with Cardano and Polkadot having designed in incentives to discourage centralisation, while Solana had no such mechanism.
 
 ![Proof of Stake Centralisation](/images/pos-comparison.png)
-
-## Fundamental constants of the Universe 
-
-Summer vacation research scholarship, UNSW School of Physics, 2011
-
-A fascinating project helping to reduce data from observations of quasars from the High-resolution echelle spectrometer instrument in the Keck telescope. The research group at UNSW found evidence of variation in the
-fine-structure constant across the sky, which goes against one of the fundamental assumptions of cosmology of 
-isotropy.
-
-![Quasar absorption spectrum](/images/keck.png)
-(Source: King, J. PhD Thesis: Searching for variations in the fine-structure constant and the proton-toelectron
-mass ratio using quasar absorption lines. Sydney : University of New South Wales, 2010.)
-
-## Warman Competition - National finalists
-
-Engineering student competition, 2011
-
-As a team of 4 we developed an autonomous vehicle to traverse a track, pick up nine coloured balls, return to the other end of the track and place the balls in individual designated slots. The vehicle had to negotiate a height clearance obstacle in the centre of the track, and was subject to a number of size and weight constraints. I was responsible for the development of electronics and programming using Arduino to control a variety of sensors and motors. This project was great because I got to teach myself about Arduino, electronics, sensors, and designing PCBs.
-
-![Warman competition](/images/warman.gif)
