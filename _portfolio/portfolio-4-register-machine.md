@@ -5,7 +5,7 @@ image: /images/register-machine.png
 collection: portfolio
 ---
 
-[Website](https://registermachine.com)
+[Website](https://registermachine.jsinkers.xyz)
 
 Personal project, 2019
 
